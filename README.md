@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BC-Werner
+- 👀 I’m interested in ... learning programming for game-development
+- 🌱 I’m currently learning ... C++, data-structures, and game-development
+- 💞️ I’m looking to collaborate on ... Not yet skilled ( confident? ) enough
+- 📫 How to reach me ... Later
